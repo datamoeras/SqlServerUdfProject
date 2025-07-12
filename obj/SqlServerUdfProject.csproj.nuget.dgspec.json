@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/r/git/my/SqlServerUdfProject/SqlServerUdfProject.csproj": {}
+  },
+  "projects": {
+    "/home/r/git/my/SqlServerUdfProject/SqlServerUdfProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/r/git/my/SqlServerUdfProject/SqlServerUdfProject.csproj",
+        "projectName": "SqlServerUdfProject",
+        "projectPath": "/home/r/git/my/SqlServerUdfProject/SqlServerUdfProject.csproj",
+        "packagesPath": "/home/r/.nuget/packages/",
+        "outputPath": "/home/r/git/my/SqlServerUdfProject/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/r/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.SqlServer.Server": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "Microsoft.SqlServer.SqlManagementObjects": {
+              "target": "Package",
+              "version": "[161.100.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.107/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
