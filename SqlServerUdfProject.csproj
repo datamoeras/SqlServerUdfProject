@@ -1,14 +1,14 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net48</TargetFramework>
     <RootNamespace>SqlServerUdfProject</RootNamespace>
     <AssemblyName>SqlServerUdfProject</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.SqlServer.SqlManagementObjects" Version="161.100.0" />
-    <PackageReference Include="Microsoft.SqlServer.Server" Version="14.0.0" />
+    <PackageReference Include="Microsoft.SqlServer.SqlManagementObjects" />
+    <PackageReference Include="Microsoft.SqlServer.Server" />
   </ItemGroup>
 
 </Project>

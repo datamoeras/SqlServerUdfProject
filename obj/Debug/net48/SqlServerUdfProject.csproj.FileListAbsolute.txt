@@ -1,0 +1,6 @@
+/home/r/git/my/SqlServerUdfProject/obj/Debug/net48/SqlServerUdfProject.csproj.AssemblyReference.cache
+/home/r/git/my/SqlServerUdfProject/obj/Debug/net48/SqlServerUdfProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/r/git/my/SqlServerUdfProject/obj/Debug/net48/SqlServerUdfProject.AssemblyInfoInputs.cache
+/home/r/git/my/SqlServerUdfProject/obj/Debug/net48/SqlServerUdfProject.AssemblyInfo.cs
+/home/r/git/my/SqlServerUdfProject/obj/Debug/net48/SqlServerUdfProject.csproj.CoreCompileInputs.cache
+/home/r/git/my/SqlServerUdfProject/obj/Debug/net48/SqlServerUdfProject.sourcelink.json

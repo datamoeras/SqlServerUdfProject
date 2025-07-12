@@ -7,13 +7,13 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Your Company Name")]
 [assembly: AssemblyProduct("SqlServerUdfProject")]
-[assembly: AssemblyCopyright("Copyright © Your Company Name")]
+[assembly: AssemblyCopyright("RDC")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 [assembly: ComVisible(false)]
 
-[assembly: Guid("your-guid-here")]
+[assembly: Guid("e688ba8f-16c5-48ff-a548-37b1adefb7b4")]
 
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
