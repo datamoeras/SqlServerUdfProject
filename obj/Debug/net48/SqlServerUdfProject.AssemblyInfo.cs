@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SqlServerUdfProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8278112f7f5792beebbd26d19d2d76ec84f1be0c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+602ca9caf21a33637ba1b5b203a80c85b655d5d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("SqlServerUdfProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SqlServerUdfProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
